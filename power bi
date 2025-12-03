@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Page</title>
+</head>
+<body>
+
+<iframe title="LOGC" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzdhODEyZDQtMGI5Mi00YWEwLTk3MTctNDhiNTE0YWQ2M2FmIiwidCI6IjY1ZmFkNjVmLTAzYzgtNGM1ZC05OWIyLTVmM2E4MWRlNGIwNyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+
+</body>
+</html>
